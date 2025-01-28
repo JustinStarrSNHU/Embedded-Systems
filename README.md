@@ -3,11 +3,11 @@
 Project Located in M7 directory <br><br>
 
 M1/ Preparing you Ti Board<br>
-M2/ Milestone 1 - pwmled2.c
-M3/ Milestone 2 - uart2echo.c
-M4/ Journal
-M5/ Milestone 3 - gpiointerrupt.c / SM Diagram
-M7 Project Report - SM Diagrams / gpiointerrupt.c
+M2/ Milestone 1 - pwmled2.c<br>
+M3/ Milestone 2 - uart2echo.c<br>
+M4/ Journal<br>
+M5/ Milestone 3 - gpiointerrupt.c / SM Diagram<br>
+M7 Project Report - SM Diagrams / gpiointerrupt.c<br>
 
 
 ## Summarize the project and what problem it was solving.
