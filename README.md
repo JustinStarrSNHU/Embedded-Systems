@@ -10,12 +10,12 @@ Programming with an embedded device (C lang.), evaluated emerging architectures 
 
 Project Located in M7 directory <br><br>
 
-> 📌 M1/ Preparing you Ti (Texas Instruments) Board 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M1)<br>
-📌 M2/ Milestone 1 - pwmled2.c 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M2)<br>
-📌 M3/ Milestone 2 - uart2echo.c 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M3)<br>
+> 📌 M1/ Preparing your Ti (Texas Instruments) Board 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M1)<br>
+📌 M2/ Milestone 1 - pwmled2.c | Blinking LEDs on the Board👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M2)<br>
+📌 M3/ Milestone 2 - uart2echo.c 👉 | Using the UART to turn an LED 'ON' or 'OFF' [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M3)<br>
 📌 M4/ Journal 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M4)<br>
-📌 M5/ Milestone 3 - gpiointerrupt.c / SM Diagram 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M5)<br>
-📌 M7 Project Report - SM Diagrams / gpiointerrupt.c 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M7)<br>
+📌 M5/ Milestone 3 - gpiointerrupt.c / SM Diagram | Using a Timer Interrupt with a button to switch between blinking LED messages 'SOS' and 'OK' 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M5)<br>
+📌 M7 Project Report - SM Diagrams / gpiointerrupt.c | Uses Timer Interrupt and Task scheduler to use temperature sensor and read the temperature, uses interrupts to set the desired temperature higher or lower, SM turns LED ON or OFF to indicate a heating system 'ON' or 'OFF', Uses UART to display information to the user 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M7)<br>
 
 
 ## Summarize the project and what problem it was solving.
