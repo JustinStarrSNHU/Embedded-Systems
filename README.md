@@ -1,13 +1,21 @@
-# Embedded-Systems
+# Embedded-Systems | Developer: Justin Starr
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+# Hello, and welcome to the Embedded Systems Repository of my Academic Projects🖐️
+
+Programming with an embedded device (C lang.), evaluated emerging architectures with a focus on performance and the software/hardware interface.
+
+# 📖 Table of Contents
 
 Project Located in M7 directory <br><br>
 
-M1/ Preparing you Ti Board<br>
-M2/ Milestone 1 - pwmled2.c<br>
-M3/ Milestone 2 - uart2echo.c<br>
-M4/ Journal<br>
-M5/ Milestone 3 - gpiointerrupt.c / SM Diagram<br>
-M7 Project Report - SM Diagrams / gpiointerrupt.c<br>
+> 📌 M1/ Preparing you Ti (Texas Instruments) Board 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M1)<br>
+📌 M2/ Milestone 1 - pwmled2.c 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M2)<br>
+📌 M3/ Milestone 2 - uart2echo.c 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M3)<br>
+📌 M4/ Journal 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M4)<br>
+📌 M5/ Milestone 3 - gpiointerrupt.c / SM Diagram 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M5)<br>
+📌 M7 Project Report - SM Diagrams / gpiointerrupt.c 👉 [Link 🔗](https://www.github.com/JustinStarrSNHU/Embedded-Systems/tree/main/M7)<br>
 
 
 ## Summarize the project and what problem it was solving.
