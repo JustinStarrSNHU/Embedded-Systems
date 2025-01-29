@@ -2,6 +2,8 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+Developed using Ti-Board cc3220s and Code Composer Studio
+
 # Hello, and welcome to the Embedded Systems Repository of my Academic Projects🖐️
 
 Programming with an embedded device (C lang.), evaluated emerging architectures with a focus on performance and the software/hardware interface.
